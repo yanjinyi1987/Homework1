@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yanjinyi1987_Homework1</string>
+    <string name="welcome_content">Hello yanjinyi1987!</string>
+    <string name="my_nick_name">yanjinyi1987</string>
+    <string name="button_name">Click me!</string>
+    <string name="pName">姓名：严进一</string>
+    <string name="pGender">性别：男</string>
+    <string name="pAge">年龄：29</string>
+    <string name="pCareer">职业：骗国家经费的初学者</string>
+    <string name="pHobby">爱好：Python编程，羽毛球，慢跑减肥</string>
+    <string name="pButton">return</string>
+</resources>
